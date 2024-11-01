@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.mwb-sf-img { float: left; width: 40%; height: 250px; background: #000}
+.mwb-sf-contant { overflow: hidden}
+.mwb-sf-info {width: 60%; float: right; padding-left: 30px}
+.mwb-sf-info h3 {text-transform: capitalize; font-size: 30px;font-weight: 600; margin: 0}
+.mwb-sf-info a {background: #000;padding: 10px 15px;text-transform: capitalize;color: #fff;display: inline-block;}
+.mwb-sf-full-contant {margin-top: 35px;}
+.mwb-sf-full-contant h3 {font-size: 27px; text-transform: capitalize; color: #000;font-weight: 600; margin: 0px;}
